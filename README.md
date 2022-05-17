@@ -11,7 +11,7 @@ scripts may not work in different versions of Unity
 ## DeleteExtraBones
 created for modding Koikatsu clothes to delete body bones (GameObjects) that the clothes don't use (from imported clothes FBX)
 
-needs enimaroah's BlenderFBX_Postprocessor script to remove references to unused bones from any Skinned Mesh Renderers
+needs [enimaroah's BlenderFBX_Postprocessor script](https://github.com/enimaroah/3D-Misc/tree/master/Unity) to remove references to unused bones from any Skinned Mesh Renderers
 
 == to use ==
 1. drag FBX into scene
